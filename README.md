@@ -2,7 +2,9 @@
 
 <h2 >Classical algorithms:</h2>
  - Ceaser cipher
+ 
  - Monoalphabetic
+
  - Playfair
  - Hill Cipher
  - Auto-key Vigenere
