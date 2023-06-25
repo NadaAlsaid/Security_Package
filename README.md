@@ -1,6 +1,6 @@
 <h1 align = "center">Security Package</h1>
 
-<h2 >Classical algorithms:</h2>
+## Classical algorithms:
 
  - Ceaser cipher
  
