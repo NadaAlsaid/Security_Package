@@ -3,9 +3,7 @@
 ## Classical algorithms:
 
  - Ceaser cipher
- 
  - Monoalphabetic
-
  - Playfair
  - Hill Cipher
  - Auto-key Vigenere
@@ -13,7 +11,7 @@
  - Columnar
  - Rail Fence
 
-<h2>More advanced cryptography algorithms:</h2>
+<h2> More advanced cryptography algorithms:</h2>
 
  - AES
  - RSA
